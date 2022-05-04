@@ -34,7 +34,7 @@
     align-items: center;
     background: var(--second-color);
     border-radius: 5px;
-    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 1px 1px 10px rgba(255, 255, 255, .3);
     color: var(--white-color);
     border-top: 4px solid var(--second-color);
     border-right: 4px solid var(--second-color);
