@@ -2,12 +2,6 @@
 let display = document.getElementById('sum-div')
 let error = document.getElementById('error')
 
-/* Operators */
-const add = document.getElementById('add')
-const sub = document.getElementById('sub')
-const mult = document.getElementById('mult')
-const div = document.getElementById('div')
-
 /* Inputs */
 const inputs = document.querySelectorAll('.input')
 const buttons = document.querySelectorAll('.button')

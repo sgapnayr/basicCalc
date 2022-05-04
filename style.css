@@ -57,7 +57,7 @@ strong {
 /* Tagline */
 .tagline {
     position: absolute;
-    transform: translateY(-18rem);
+    transform: translateY(-16rem);
     opacity: 0.5;
     color: white;
     font-style: italic;
