@@ -54,6 +54,20 @@ strong {
     color: var(--accent-color);
 }
 
+/* Tagline */
+.tagline {
+    position: absolute;
+    transform: translateY(-16rem);
+    opacity: 0.5;
+    color: white;
+    font-style: italic;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
 /* Title */
 .title-div {
     width: 100%;
